@@ -1,4 +1,3 @@
-
 # 掌上小说广告屏蔽
 DOMAIN-SUFFIX,api.hzpmr.cn
 URL-REGEX,^http:\/\/api\.ywacn\.cn\/notification\/shelfMessage\?platform=ios&isfree=1&freeappid=1234491385$
