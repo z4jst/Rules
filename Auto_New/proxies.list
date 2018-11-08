@@ -1,2 +1,2 @@
- TW 1 = custom, 59.125.61.180, 8097, aes-256-cfb, eIW0Dnk69454e6nSwuspv9DmS201tQ0D, http://example.com/, udp-relay=true, tfo=true
- HK 1 = custom, 209.58.188.12, 8097, aes-256-cfb, eIW0Dnk69454e6nSwuspv9DmS201tQ0D, http://example.com/, udp-relay=true, tfo=true
+🇨🇳 台湾 = custom, 59.125.61.180, 8097, aes-256-cfb, eIW0Dnk69454e6nSwuspv9DmS201tQ0D, http://example.com/, udp-relay=true, tfo=true
+🇭🇰 香港 = custom, 209.58.188.12, 8097, aes-256-cfb, eIW0Dnk69454e6nSwuspv9DmS201tQ0D, http://example.com/, udp-relay=true, tfo=true
