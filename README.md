@@ -1,6 +1,6 @@
-# 自用Surge规则
+# Surge规则
 
-[自用配置](https://raw.githubusercontent.com/ydzydzydz/Rules/master/surge.conf)
+[配置示例](https://raw.githubusercontent.com/ydzydzydz/Rules/master/surge.conf)
 
 ----
 # 规则参考
@@ -14,19 +14,25 @@
 ----
 # 特殊代理
 **将特殊代理放在规则最前生效**  
-[Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
-[Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
-[YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
-[Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
-[MytvSUPER](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list)  
+[Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
 [BBC](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list)  
-[LINE](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/line.list)  
-[SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
-[Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
-[PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)  
-[YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
-[TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
-[Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
-[Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
-[Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
 [Facebook](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list)  
+[Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
+[Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
+[LINE](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/line.list)  
+[Microsoft](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/microsoft.list)  
+[MytvSUPER](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list)  
+[Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
+[PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)  
+[SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
+[Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
+[Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
+[TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
+[Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
+[Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
+[YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
+[YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
+
+----
+# Telegram
+[Zhuangzhuang](https://t.me/YDZ123456)  
