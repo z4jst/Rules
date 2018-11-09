@@ -28,3 +28,5 @@
 [TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
 [Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
 [Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
+[Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
+[Facebook](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list)  
