@@ -14,6 +14,6 @@
 ----
 # 特殊代理
 **将特殊代理放在规则最前生效**  
-[Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teegram.list)  
+[Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
 [Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
 [YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
