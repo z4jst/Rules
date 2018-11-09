@@ -17,3 +17,5 @@
 [Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
 [Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
 [YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
+[Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
+[MytvSUPER](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list)  
