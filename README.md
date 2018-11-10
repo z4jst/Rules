@@ -23,35 +23,54 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
 ----
 # 特殊代理
 **将特殊代理放在规则最前生效**  
-* [Amazon](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list)  
-* [Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
-* [BBC](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list)  
-* [Bilibili](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bilibili.list)  
-* [Facebook](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list)  
-* [Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
-* [HBO](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hbo.list)  
-* [Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
-* [IQIYI](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/iqiyi.list)  
-* [letv](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/letv.list)  
-* [LINE](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/line.list)  
-* [Microsoft](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/microsoft.list)  
-* [MytvSUPER](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list)  
-* [NeteaseMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/neteasemusic.list)  
-* [Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
-* [PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)  
-* [SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
-* [Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
-* [Steam](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list)  
-* [TeamViewer](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teamviewer.list)  
-* [Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
-* [Tencent Video](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencentvideo.list)  
-* [TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
-* [Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
-* [Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
-* [viuTV](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/viutv.list)  
-* [WhatsApp](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/whatsapp.list)  
-* [Youku](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youku.list)  
-* [YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
-* [YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
 
+*
+  * [Amazon](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list)  
+  * [Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
+  * [Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
+  * [Microsoft](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/microsoft.list)  
+
+
+*   
+  * [KakaoTalk](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/kakaotalk.list)  
+  * [LINE](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/line.list)  
+  * [Slack](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/slack.list)  
+  * [Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
+  * [Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
+  * [Facebook](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list)  
+  * [Pinterest](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pinterest.list)  
+  * [WhatsApp](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/whatsapp.list)  
+
+
+*
+  * [BBC](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list)  
+  * [Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
+  * [Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
+  * [HBO](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hbo.list)  
+  * [MytvSUPER](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list)  
+  * [TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
+  * [viuTV](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/viutv.list)  
+  * [YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
+  * [Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
+
+
+*  
+  * [Bilibili](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bilibili.list)  
+  * [letv](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/letv.list)  
+  * [IQIYI](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/iqiyi.list)  
+  * [Youku](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youku.list)  
+  * [Tencent Video](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencentvideo.list)  
+
+
+*  
+  * [NeteaseMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/neteasemusic.list)  
+  * [SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
+  * [Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
+  * [YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
+
+
+*
+  * [PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)    
+  * [TeamViewer](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teamviewer.list)  
+  * [Steam](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list)  
 ----
