@@ -12,6 +12,12 @@
 [ConnersHua](https://github.com/ConnersHua/Profiles)  
 
 ----
+# 规则更新提醒
+从GitHub更新RULE-SET规则提醒
+```
+AND,((DOMAIN,raw.githubusercontent.com),(USER-AGENT,Surge*)),DIRECT,notification-text="外部资源正在更新!😀",notification-interval=3
+```
+----
 # 特殊代理
 **将特殊代理放在规则最前生效**  
 [Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
