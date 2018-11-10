@@ -24,7 +24,7 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
 # 特殊代理
 **将特殊代理放在规则最前生效**  
 
-*
+*  
   * [Amazon](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list)  
   * [Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
   * [Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
@@ -42,7 +42,20 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
   * [WhatsApp](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/whatsapp.list)  
 
 
-*
+*  
+  * [PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)    
+  * [TeamViewer](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teamviewer.list)  
+  * [Steam](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list)  
+
+
+*  
+  * [NeteaseMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/neteasemusic.list)  
+  * [SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
+  * [Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
+  * [YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
+
+
+*  
   * [BBC](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list)  
   * [Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
   * [Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
@@ -62,15 +75,4 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
   * [Tencent Video](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencentvideo.list)  
 
 
-*  
-  * [NeteaseMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/neteasemusic.list)  
-  * [SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
-  * [Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
-  * [YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
-
-
-*
-  * [PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)    
-  * [TeamViewer](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teamviewer.list)  
-  * [Steam](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list)  
 ----
