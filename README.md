@@ -23,11 +23,13 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
 ----
 # 特殊代理
 **将特殊代理放在规则最前生效**  
+* [Amazon](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list)  
 * [Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
 * [BBC](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list)  
 * [Bilibili](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bilibili.list)  
 * [Facebook](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list)  
 * [Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
+* [HBO](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hbo.list)  
 * [Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
 * [IQIYI](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/iqiyi.list)  
 * [letv](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/letv.list)  
@@ -46,11 +48,10 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
 * [TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
 * [Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
 * [Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
+* [viuTV](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/viutv.list)  
 * [WhatsApp](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/whatsapp.list)  
 * [Youku](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youku.list)  
 * [YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
 * [YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
 
 ----
-# Telegram
-[Zhuangzhuang](https://t.me/YDZ123456)  
