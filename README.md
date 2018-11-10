@@ -17,6 +17,7 @@
 ```
 AND,((DOMAIN,raw.githubusercontent.com),(USER-AGENT,Surge*)),DIRECT,notification-text="外部资源正在更新!😀",notification-interval=3
 ```
+特殊代理示例
 ```
 RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list,DIRECT
 ```
