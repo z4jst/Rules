@@ -1,6 +1,6 @@
 # Surge规则
 
-[配置示例](https://raw.githubusercontent.com/ydzydzydz/Rules/master/surge.conf)
+[配置示例](https://raw.githubusercontent.com/ydzydzydz/Rules/master/zhuang.conf)
 
 ----
 # 规则参考
