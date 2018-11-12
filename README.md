@@ -1,7 +1,8 @@
 # Surge规则
 
 [配置示例](https://raw.githubusercontent.com/ydzydzydz/Rules/master/zhuang.conf)   
-在iCloud云盘Surge文件夹加入[auto.list](https://raw.githubusercontent.com/ydzydzydz/Rules/master/proxy/auto.list) 和[all.list](https://raw.githubusercontent.com/ydzydzydz/Rules/master/proxy/all.list)
+
+**在iCloud云盘Surge文件夹中加入[auto.list](https://raw.githubusercontent.com/ydzydzydz/Rules/master/proxy/auto.list) 和[all.list](https://raw.githubusercontent.com/ydzydzydz/Rules/master/proxy/all.list)**
 
 ----
 # 规则参考
