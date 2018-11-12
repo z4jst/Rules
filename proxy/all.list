@@ -3,3 +3,4 @@ ProxyHTTPS = https, 1.2.3.4, 443, username, password
 ProxySOCKS5 = socks5, 1.2.3.4, 443, username, password
 ProxySOCKS5TLS = socks5-tls, 1.2.3.4, 443, username, password, skip-common-name-verify=true
 ProxyShadowsocks = custom, 1.2.3.4, 443, chacha20-ietf-poly1305, password, https://raw.githubusercontent.com/ydzydzydz/Rules/master/SSEncrypt/SSEncrypt.module
+Shadowsocks = ss, 1.2.3.4, abc-kt.com, 443, encrypt-method = rc4-md5, password = 密码
