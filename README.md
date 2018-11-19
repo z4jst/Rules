@@ -78,4 +78,8 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
   * [Tencent Video](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencentvideo.list)  
 
 
+*
+  * [SYSTEM](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/system.list)  
+  * [LAN](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/lan.list)  
+
 ----
