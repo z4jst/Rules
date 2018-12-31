@@ -7,3 +7,7 @@ URL-REGEX,^http:\/\/api\.ywacn\.cn\/advert\?platform=ios&position=all&isfree=1&f
 URL-REGEX,^http:\/\/api\.hzpmr\.cn\/favorite\/book\/top\?isfree=1&freeappid=1234491385
 URL-REGEX,^http:\/\/api\.hzpmr\.cn\/splashes\/ios\?isfree=1&freeappid=1234491385$
 URL-REGEX,^http:\/\/api\.ywacn\.cn\/splashes\/ios\?isfree=1&freeappid=1234491385$
+
+# https://m.qu.la笔趣阁去广告
+DOMAIN-SUFFIX,ixnj.8j24h.cn
+DOMAIN-SUFFIX,rbbf.07kfh.cn
