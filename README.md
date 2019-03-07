@@ -25,61 +25,361 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
 ```
 ----
 # 特殊代理
-**将特殊代理放在规则最前生效**  
+**将特殊代理放在规则最前生效** 
 
-*  
-  * [Amazon](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list)  
-  * [Apple](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list)  
-  * [Google](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list)  
-  * [Microsoft](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/microsoft.list)  
+---
+
+Bilibili
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bilibili.list
+```
+
+IQIYI
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/iqiyi.list
+```
+
+letv
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/letv.list
+```
+
+Tencent Video
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencentvideo.list
+```
+
+Youku
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youku.list
+```
+
+ABC
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/abc.list
+```
+
+AbemaTV
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/abematv.list
+```
+
+Amazon Prime Video
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list
+```
+
+BBC
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list
+```
+
+CHOCO TV
 
 
-*   
-  * [KakaoTalk](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/kakaotalk.list)  
-  * [LINE](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/line.list)  
-  * [Slack](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/slack.list)  
-  * [Telegram](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list)  
-  * [Twitter](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list)  
-  * [Facebook](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list)  
-  * [Pinterest](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pinterest.list)  
-  * [WhatsApp](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/whatsapp.list)  
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/choco-tv.list
+```
+
+Fox+
 
 
-*  
-  * [PayPal](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list)    
-  * [TeamViewer](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teamviewer.list)  
-  * [Steam](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list)  
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/fox+.list
+```
+
+HBO&HBO Go
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hbo&hbogo.list
+```
+
+Hulu
 
 
-*  
-  * [NeteaseMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/neteasemusic.list)  
-  * [SoundCloud](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list)  
-  * [Spotify](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list)  
-  * [YouTubeMusic](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list)  
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list
+```
+
+Imkan
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/imkan.list
+```
+
+MytvSUPER
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list
+```
+
+Netflix
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list
+```
+
+Pinterest
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pinterest.list
+```
+
+Sky GO
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/sky-go.list
+```
+
+TVB
 
 
-*  
-  * [BBC](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list)  
-  * [Netflix](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/netflix.list)  
-  * [Hulu](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hulu.list)  
-  * [HBO](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/hbo.list)  
-  * [MytvSUPER](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/mytvsuper.list)  
-  * [TVB](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list)  
-  * [viuTV](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/viutv.list)  
-  * [YouTube](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list)  
-  * [Vidol](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list)  
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tvb.list
+```
+
+Vidol
 
 
-*  
-  * [Bilibili](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bilibili.list)  
-  * [letv](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/letv.list)  
-  * [IQIYI](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/iqiyi.list)  
-  * [Youku](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youku.list)  
-  * [Tencent Video](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencentvideo.list)  
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/vidol.list
+```
+
+viuTV
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/viutv.list
+```
+
+Youtube
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtube.list
+```
+
+---
+
+JOOX
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/joox.list
+```
+
+NeteaseMusic
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/neteasemusic.list
+```
+
+SoundCloud
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/soundcloud.list
+```
+
+YoutubeMusic
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list
+```
+
+Spotify
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list
+```
+
+---
+
+Amazon
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/amazon.list
+```
+
+Apple
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.list
+```
+
+Google
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/google.list
+```
+
+Microsoft
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/microsoft.list
+```
+
+---
+
+Facebook
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/facebook.list
+```
+
+KakaoTalk
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/kakaotalk.list
+```
+
+LINE
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/line.list
+```
+
+Potato Chat
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/potato-chat.list
+```
+
+Slack
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/slack.list
+```
+
+TeamViewer
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/teamviewer.list
+```
+
+Telegram
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/telegram.list
+```
+
+WhatsApp
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/whatsapp.list
+```
+
+Twitter
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/twitter.list
+```
+
+Spark
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spark.list
+```
+
+---
+
+Pandora
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pandora.list
+```
+
+PayPal
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list
+```
+
+---
+
+Epicgames
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/epicgames.list
+```
+
+MOO
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/moo.list
+```
+
+Steam
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list
+```
+
+Bahamut
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bahamut.list
+```
+
+---
+
+LAN
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/lan.list
+```
+
+SYSTEM
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/system.list
+```
 
 
-*
-  * [SYSTEM](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/system.list)  
-  * [LAN](https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/lan.list)  
 
-----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

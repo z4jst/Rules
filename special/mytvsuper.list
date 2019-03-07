@@ -1,4 +1,5 @@
-# MytvSUPER
+// MytvSUPER
+USER-AGENT,mytv*
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,mytvsuper.com
