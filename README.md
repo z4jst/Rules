@@ -83,6 +83,12 @@ BBC
 https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bbc.list
 ```
 
+Bahamut
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bahamut.list
+```
+
 CHOCO TV
 
 
@@ -116,6 +122,12 @@ Imkan
 https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/imkan.list
 ```
 
+IQIYI(TW)
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/iqiyi-tw.list
+```
+
 MytvSUPER
 
 ```
@@ -132,6 +144,12 @@ Pinterest
 
 ```
 https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pinterest.list
+```
+
+PBS
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pbs.list
 ```
 
 Sky GO
@@ -192,6 +210,12 @@ YoutubeMusic
 https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/youtubemusic.list
 ```
 
+Pandora
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pandora.list
+```
+
 Spotify
 
 ```
@@ -199,6 +223,18 @@ https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spotify.list
 ```
 
 ---
+
+Alibaba
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/alibaba.list
+```
+
+Tencent
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/tencent.list
+```
 
 Amazon
 
@@ -288,10 +324,10 @@ https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/spark.list
 
 ---
 
-Pandora
+JD
 
 ```
-https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/pandora.list
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/jd.list
 ```
 
 PayPal
@@ -318,12 +354,6 @@ Steam
 
 ```
 https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/steam.list
-```
-
-Bahamut
-
-```
-https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/bahamut.list
 ```
 
 ---
