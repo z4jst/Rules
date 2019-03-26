@@ -15,6 +15,7 @@
 
 ----
 # RULE-SET
+
 从GitHub更新RULE-SET规则提醒
 ```
 AND,((DOMAIN,raw.githubusercontent.com),(USER-AGENT,Surge*)),DIRECT,notification-text="外部资源正在更新!😀",notification-interval=3
@@ -26,6 +27,21 @@ RULE-SET,https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/apple.
 ----
 # 特殊代理
 **将特殊代理放在规则最前生效** 
+
+---
+
+AppleNews 地区限制
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/appnews-region.list
+```
+
+
+AppleNews 
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/appnews.list
+```
 
 ---
 
