@@ -1,6 +1,6 @@
 # Surge规则
 
-[配置示例](https://raw.githubusercontent.com/ydzydzydz/Rules/master/zhuang.conf)     [配置示例2](https://raw.githubusercontent.com/ydzydzydz/Rules/master/conf/zhuangzhuang/zhuangzhuang.conf)   
+[配置示例](https://raw.githubusercontent.com/ydzydzydz/Rules/master/conf/zhuangzhuang/zhuangzhuang.conf)   
 
 **在iCloud云盘Surge文件夹中加入[auto.list](https://raw.githubusercontent.com/ydzydzydz/Rules/master/proxy/auto.list) 和[all.list](https://raw.githubusercontent.com/ydzydzydz/Rules/master/proxy/all.list)**
 
@@ -334,6 +334,12 @@ PayPal
 
 ```
 https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/paypal.list
+```
+
+LastPass
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/lastpass.list
 ```
 
 ---
