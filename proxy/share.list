@@ -2,4 +2,4 @@ SS = ss, zhuangzhuang.ga, 12345, encrypt-method=chacha20-ietf-poly1305, password
 
 SOCKS5 = socks5, zhuangzhuang.ga, 555
 
-Snell = snell, zhuangzhuang.ga, 13254, psk=THNlzKRm3jw7Mzly, obfs=tls
+Snell = snell, zhuangzhuang.ga, 12312, psk=S9KVUW7TYhpeqkhV, obfs=tls
