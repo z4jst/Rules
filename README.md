@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/appnews.list
 
 ---
 
+
 Bilibili
 
 ```
@@ -359,6 +360,12 @@ https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/lastpass.list
 ```
 
 ---
+
+Speedtest
+
+```
+https://raw.githubusercontent.com/ydzydzydz/Rules/master/special/speedtest.list
+```
 
 Epicgames
 
