@@ -46,7 +46,7 @@ URL-REGEX, https?://edit.sinaapp.com/ua\?t=adv
 URL-REGEX, https?://free.sinaimg.cn/u1.img.mobile.sina.cn
 URL-REGEX, https?://simg.s.weibo.com/.+_ios\d{2}.gif
 URL-REGEX, https?://storage.wax.weibo.com/\w+.(png|jpg|mp4)
-URL-REGEX, https?://u1.img.mobile.sina.cn/public/files/image/\d{3}x\d{2,4}.+(png|jpg|mp4)
+URL-REGEX, "https?://u1.img.mobile.sina.cn/public/files/image/\d{3}x\d{2,4}.+(png|jpg|mp4)"
 
 // 优酷
 URL-REGEX, .+&duration=\d{2}&
@@ -60,8 +60,8 @@ URL-REGEX, https?://api.mobile.youku.com/layout/search/hot/word
 URL-REGEX, https?://m.youku.com/video/libs/iwt.js
 URL-REGEX, https?://pic.k.sohu.com/img8/wb/tj/
 URL-REGEX, https?://r.l.youku.com/rec_at_click
-URL-REGEX, https?://r1.ykimg.com/\w{30,35}.jpg
-URL-REGEX, https?://r1.ykimg.com/material/.+/\d{3,4}-\d{4}
+URL-REGEX, "https?://r1.ykimg.com/\w{30,35}.jpg"
+URL-REGEX, "https?://r1.ykimg.com/material/.+/\d{3,4}-\d{4}"
 URL-REGEX, https?://r1.ykimg.com/material/.+/\d{6}/\d{4}/
 # URL-REGEX, https?://ups.youku.com/(.*)needad=1& https?://ups.youku.com/$1needad=0& 302
 URL-REGEX, https?://vali.cp31.ott.cibntv.net/youku
@@ -73,7 +73,7 @@ URL-REGEX, https?://c.m.163.com/nc/gl/
 URL-REGEX, https?://client.mail.163.com/apptrack/confinfo/searchMultiAds
 URL-REGEX, https?://dsp-impr2.youdao.com/adload.s\?
 URL-REGEX, https?://g1.163.com/madfeedback
-URL-REGEX, https?://img1.126.net/.+dpi=\w{7,8}
+URL-REGEX, "https?://img1.126.net/.+dpi=\w{7,8}"
 URL-REGEX, https?://img1.126.net/channel14/
 URL-REGEX, https?://interface.music.163.com/eapi/ad/
 URL-REGEX, https?://mimg.127.net/external/smartpop-manger.min.js
@@ -103,7 +103,8 @@ URL-REGEX, https?://api.zhuishushenqi.com/notification/shelfMessage
 URL-REGEX, https?://api.zhuishushenqi.com/recommend
 URL-REGEX, https?://api.zhuishushenqi.com/splashes/ios
 URL-REGEX, https?://mi.gdt.qq.com/gdt_mview.fcg
-URL-REGEX, // Upgrade
+
+// Upgrade
 URL-REGEX, https?://api.zhuishushenqi.com/user/bookshelf-updated
 URL-REGEX, https?://itunes.apple.com/lookup\?id=575826903
 
@@ -191,7 +192,7 @@ URL-REGEX, https?://ms.jr.jd.com/gw/generic/base/na/m/adInfo
 URL-REGEX, https?://gw.alicdn.com/tfs/.+-1125-1602
 
 // 豆瓣
-URL-REGEX, https?://(\d{1,3}.){1,3}\d{1,3}/view/dale-online/dale_ad/
+URL-REGEX, "https?://(\d{1,3}.){1,3}\d{1,3}/view/dale-online/dale_ad/"
 URL-REGEX, https?://api.douban.com/v2/app_ads/common_ads
 URL-REGEX, https?://frodo.douban.com/api/v2/movie/banner
 URL-REGEX, https?://img\d.doubanio.com/view/dale-online/dale_ad/
@@ -207,8 +208,8 @@ URL-REGEX, https?://staticlive.douyucdn.cn/upload/signs/
 
 // 饿了么
 URL-REGEX, https?://elemecdn.com/.+/sitemap
-URL-REGEX, https?://fuss10.elemecdn.com/.+/w/640/h/\d{3,4}
-URL-REGEX, https?://fuss10.elemecdn.com/.+/w/750/h/\d{3,4}
+URL-REGEX, "https?://fuss10.elemecdn.com/.+/w/640/h/\d{3,4}"
+URL-REGEX, "https?://fuss10.elemecdn.com/.+/w/750/h/\d{3,4}"
 URL-REGEX, https?://fuss10.elemecdn.com/.+.mp4
 URL-REGEX, https?://m.elecfans.com/static/js/ad.js
 URL-REGEX, https?://www1.elecfans.com/www/delivery/
@@ -219,8 +220,8 @@ URL-REGEX, https?://pb\d.pstatp.com/origin
 
 // 咸鱼
 URL-REGEX, https?://gw.alicdn.com/mt/
-URL-REGEX, https?://gw.alicdn.com/tfs/.+\d{3,4}-\d{4}
-URL-REGEX, https?://gw.alicdn.com/tps/.+\d{3,4}-\d{4}
+URL-REGEX, "https?://gw.alicdn.com/tfs/.+\d{3,4}-\d{4}"
+URL-REGEX, "https?://gw.alicdn.com/tps/.+\d{3,4}-\d{4}"
 
 // 喜马拉雅
 URL-REGEX, https?://adse.+.com/[a-z]{4}/loading\?appid=
@@ -401,7 +402,7 @@ URL-REGEX, https?://dapis.mting.info/yyting/advertclient/ClientAdvertList.action
 URL-REGEX, https?://192.133.+.mp4$
 
 // 熊猫直播
-URL-REGEX, https?://static.api.m.panda.tv/index.php\?method=clientconf.firstscreen&__version=(play_cnmb|(\d+.){0,3}\d+)&__plat=ios&__channel=appstore
+URL-REGEX, "https?://static.api.m.panda.tv/index.php\?method=clientconf.firstscreen&__version=(play_cnmb|(\d+.){0,3}\d+)&__plat=ios&__channel=appstore"
 
 // 微吼
 URL-REGEX, https?://api.app.vhall.com/v5/000/webinar/launch
@@ -629,7 +630,7 @@ URL-REGEX, https?://games.mobileapi.hupu.com/interfaceAdMonitor
 URL-REGEX, https?://m5.amap.com/ws/valueadded/
 
 // 虾米音乐
-URL-REGEX, https?://pic.xiami.net/images/common/uploadpic[\s\S]*?.jpg$
+URL-REGEX,https?://pic.xiami.net/images/common/uploadpic[\s\S]*?.jpg$
 
 // 作业帮
 URL-REGEX, https?://img.zuoyebang.cc/zyb-image[\s\S]*?.jpg
