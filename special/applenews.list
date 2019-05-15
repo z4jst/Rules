@@ -1,6 +1,8 @@
 // AppleNews
 
 USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+PROCESS-NAME,News
 DOMAIN-SUFFIX,apple.news
 DOMAIN,news-events.apple.com
 DOMAIN,news-edge.apple.com
