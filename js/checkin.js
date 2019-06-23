@@ -14,7 +14,7 @@ const passwd = "12345678";                       //登录密码
 
 /****************************************************************/
 
-const login= site + "/auth/login"
+const login = site + "/auth/login"
 const checkin = site + "/user/checkin"
 const user = site + "/user"
 const table = {
@@ -42,7 +42,6 @@ $httpClient.post(table, function (error, response, data) {
                     usedData = usedData[0].match(/\d\S*(K|G|M|T)/)
                     var restData = data.match(/(剩余\s\d.+?%|>剩余(里程|流量)|>\s剩余流量)[^B]+/)
                     restData = restData[0].match(/\d\S*(K|G|M|T)/)
-                    //var allData = checkinMsg + "已用流量：" + usedData[0] + "B" + "剩余流量：" + restData[0] + "B"
                     $notification.post(sitename, checkinMsg, "已用流量：" + usedData[0] + "B" + "\n剩余流量：" + restData[0] + "B");
                 }
                 $done();
@@ -51,3 +50,11 @@ $httpClient.post(table, function (error, response, data) {
     }
 }
 );
+
+
+/*****************************************************************
+[Script]
+
+# 在每天 00:00:00 执行签到脚本
+cron "0 0 * * *" script-path=resources/js/checkin.js
+*****************************************************************/
