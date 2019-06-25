@@ -25,8 +25,8 @@ const table = {
         "Content-Type": "application/json"
     },
     body: {
-        "email": "email",
-        "passwd": "passwd",
+        "email": email,
+        "passwd": passwd,
         "rumber-me": "week"
     }
 }
