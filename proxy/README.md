@@ -1,0 +1,7 @@
+## Proxy list
+
+```
+🈚️ 替换 = reject-tinygif
+🈲 拦截 = reject
+🈯️ 放行 = direct
+```
