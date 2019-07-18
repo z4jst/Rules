@@ -26,7 +26,7 @@
 
 
 
-## Kitsunebi
+## Kitsunebi 配置
 
 [Kitsunebi@ConnersHua](https://raw.githubusercontent.com/ConnersHua/Profiles/master/Kitsunebi/Pro.conf)
 
