@@ -31,3 +31,8 @@ DOMAIN,data.bilibili.com
 DOMAIN,cm.bilibili.com
 DOMAIN,miniapp.bilibili.com
 
+
+#============================================================================================
+//屏蔽人人视频更新提示
+URL-REGEX,"^https?:\/\/api\.rr\.tv\/.*(getAll|Version)$"
+
