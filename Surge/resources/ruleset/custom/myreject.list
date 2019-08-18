@@ -16,6 +16,13 @@ DOMAIN-SUFFIX,adserver-ad.321mh.com
 
 #============================================================================================
 
+// 知乎 来源：陈小壮
+URL-REGEX,https://(api|www).zhihu.com/(fringe|zst|commercial|real_time|ad-style-service|banners|topstory/hot-lists|market/popover|mqtt|.*(launch|featured-comment-ad|recommendations|community-ad)|search/(top|tab|preset)|ab)
+AND,((USER-AGENT,ZhihuHybrid*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
+AND,((USER-AGENT,osee2*), (NOT,((DOMAIN-SUFFIX,zhihu.com))), (NOT,((DOMAIN-SUFFIX,zhimg.com))))
+
+#============================================================================================
+
 // 来源：https://github.com/onewayticket255/Surge-Script
 // Zhihu
 DOMAIN,crash2.zhihu.com
@@ -35,4 +42,6 @@ DOMAIN,miniapp.bilibili.com
 #============================================================================================
 //屏蔽人人视频更新提示
 URL-REGEX,"^https?:\/\/api\.rr\.tv\/.*(getAll|Version)$"
+
+
 
