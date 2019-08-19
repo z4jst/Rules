@@ -1,0 +1,4 @@
+🇺🇸 US = select, policy-path=resources/policy/US.list,update-interval=21600
+🇬🇧 UK = select, policy-path=resources/policy/UK.list,update-interval=21600
+🇭🇰 HK = select, policy-path=resources/policy/HK.list,update-interval=21600
+🇨🇳 CN = select, policy-path=resources/policy/CN.list,update-interval=21600
