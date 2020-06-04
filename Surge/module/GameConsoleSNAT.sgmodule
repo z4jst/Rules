@@ -1,9 +1,0 @@
-# 模块名
-#!name=Game Console SNAT
-# 模块简介
-#!desc=Let Surge handle SNAT conversation properly for PlayStation, Xbox, and Nintendo Switch. Only useful if Surge Mac acts the router for these devices.
-# 限制模块的使用范围 (ios、mac)
-#-#!system=mac-
-
-[General]
-always-real-ip = %APPEND% *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com
