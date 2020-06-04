@@ -1,0 +1,14 @@
+#!name=tb_price_IP_ban
+#!desc=用于屏蔽淘宝的ip段，防止比价失效。
+#!system=ios
+
+[Rule]
+#IP-CIDR,203.119.0.0/16,REJECT, no-resolve
+# IP-CIDR,101.226.0.0/16,REJECT, no-resolve
+
+IP-CIDR,203.119.144.0/24,REJECT, no-resolve
+IP-CIDR,203.119.206.0/24,REJECT, no-resolve
+IP-CIDR,203.119.211.0/24,REJECT, no-resolve
+IP-CIDR,203.119.175.0/24,REJECT, no-resolve
+IP-CIDR,203.119.203.0/24,REJECT, no-resolve
+IP-CIDR,101.226.26.0/24,REJECT, no-resolve
