@@ -3,8 +3,6 @@
 #!system=ios
 
 [Rule]
-#IP-CIDR,203.119.0.0/16,REJECT, no-resolve
-# IP-CIDR,101.226.0.0/16,REJECT, no-resolve
 
 IP-CIDR,203.119.144.0/24,REJECT, no-resolve
 IP-CIDR,203.119.206.0/24,REJECT, no-resolve
