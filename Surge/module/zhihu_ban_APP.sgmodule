@@ -1,0 +1,7 @@
+#!name=zhihu强制PC版本浏览
+#!desc=去除知乎强制App跳转，可配合简阅优化阅读体验
+
+[Header Rewrite]
+^https?://www.zhihu.com/question/ header-replace User-Agent Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.45 Safari/537.36
+[MITM]
+hostname = %APPEND% www.zhihu.com
